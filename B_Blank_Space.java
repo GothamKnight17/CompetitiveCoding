@@ -1,6 +1,4 @@
-/**
- * B_Blank_Space
- */
+
 import java.util.Scanner;
 public class B_Blank_Space {
     public static void main(String[] args) {
