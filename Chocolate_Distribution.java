@@ -6,7 +6,7 @@ public class Chocolate_Distribution {
         int t = s.nextInt();
         while (t-- != 0) {
             int n = s.nextInt();
-            System.out.println((n-2)+" "+"1"+"1");
+            System.out.println(((n/2)+n%2)+" "+n);
         }
         s.close();
     }
