@@ -23,7 +23,6 @@ public class Swap_the_numbers {
                 else
                     no_swap.append(i);
             }
-            che
         }
         s.close();
     }
