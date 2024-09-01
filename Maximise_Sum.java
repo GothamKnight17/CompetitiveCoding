@@ -35,7 +35,7 @@ public class Maximise_Sum {
                     a[i+1]=-1*a[i+1];
                 }
             }
-            int sum = 0;
+            long sum = 0;
             for (int i:a)
                 sum+=i;
             System.out.println(sum);
