@@ -1,7 +1,6 @@
 
 import java.util.HashSet;
 import java.util.Scanner;
-
 /**
  * D_Satyam_and_Counting
  * 
